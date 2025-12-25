@@ -1,0 +1,35 @@
+# Ignore build directories
+/build/
+/dist/
+
+# Ignore compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.class
+*.pyc
+*.pyo
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.jar
+*.war
+*.ear
+
+# Ignore libraries
+*.lib
+*.a
+*.so
+*.dylib
+*.dll
+*.framework
+*.xcframework
+
+
+*.vscode
+*.egg-info
