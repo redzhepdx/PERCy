@@ -11,7 +11,7 @@ percy_extension = Extension(
 
 setup(
     name="percy-rl",
-    version="0.1.2",
+    version="0.1.0",
     description="Prioritized Experience Replay in C with Python bindings",
     long_description=(HERE / "README.md").read_text(encoding="utf-8"),
     long_description_content_type="text/markdown",
