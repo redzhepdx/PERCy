@@ -17,7 +17,7 @@ For the original C implementation, visit the [PER-C repository](https://github.c
 ## Getting Started
 
 ```bash
-pip3 install percy-rl
+pip install -i https://test.pypi.org/simple/ percy-rl
 ```
 
 or if you want to install from source:
